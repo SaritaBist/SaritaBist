@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SaritaBist
 - 👀 I’m interested in Programming and development.
-- 🌱 I’m currently learning Java And DSA.
-- 💞️ I’m looking to collaborate on Different Projects of Open Source.
+-- 💞️ I’m looking to collaborate on Different Projects of Open Source.
 
 
 <!---
